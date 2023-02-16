@@ -1,0 +1,23 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "To learn HTTP",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/negru-ioan/webcrawlerhttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/negru-ioan/webcrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/negru-ioan/webcrawlerhttp#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
